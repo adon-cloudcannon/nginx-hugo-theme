@@ -3,7 +3,7 @@
 
 name = "nginx-hugo-theme"
 license = "Apache"
-licenselink = "https://github.com/nginxinc/nginx-hugo-theme/blob/main/LICENSE"
+licenselink = "https://github.com/adon-cloudcannon/nginx-hugo-theme/blob/main/LICENSE"
 description = "Hugo theme for F5 NGINX documentation"
 homepage = "https://docs.nginx.com/"
 
